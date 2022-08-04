@@ -1,0 +1,7 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/MerriweatherBold.ttf"); font-family : "Merriweather"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/JacquesFrancoisRegular.ttf"); font-family : "Jacques Francois"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/MerriweatherRegular.ttf"); font-family : "Merriweather"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/OpenSansRegular.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OpenSansBold.ttf"); font-family : "Open Sans"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/MerriweatherBlack.ttf"); font-family : "Merriweather"; font-weight : 900;  }
